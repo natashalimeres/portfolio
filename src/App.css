@@ -1,0 +1,35 @@
+
+.about-me-section {
+  margin: auto;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.about-me-title {
+  margin-top: 250px ;
+  margin-bottom: 550px;
+}
+
+.about-me-text {
+  margin-top: 250px;
+  margin-bottom: 550px;
+}
+
+h1 {
+  font-size: 84px;
+  font-weight: normal;
+  color: #e2e3d9;
+}
+
+
+p {
+  font-size: 24px;
+  color: #e2e3d9;
+}
+
+h2 {
+  font-size: 84px;
+  font-weight: normal;
+  color: #e2e3d9;
